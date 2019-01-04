@@ -5,7 +5,7 @@
 - Time: Friday 2:00PM - 4:30PM
 - Office Hour:
 
-## 1 Course Description
+## 1. Course Description
 
 ### 1.1 Objectives
 
@@ -23,17 +23,18 @@ This is an advanced course on NLP, which means it assumes that you already have 
 
 Please use this [question form](files/question.md) for the prerequisites evaluation. If you are confident to answer 80% of the questions without referring any textbook or paper, then you are ready for this course.
 
-## 2 Schedule
+## 2. Schedule
 
-The detail schedule of this course can be found on [this page](files/schedule.md). 
+- The course schedule with topics can be found on [this page](files/schedule.md). 
+- Presentation schedule is in [this online form](https://docs.google.com/spreadsheets/d/1IJZFfohVO4Rvt9XhhCjVgA5IXvHEcSki4sdy2AobiqQ/edit#gid=0).
 
-## 3 Readings
+## 3. Readings
 
-For paper presentation, please select from the following reading list
+For presentation, please select papers from the following list. Most of the papers are from the conferences in 2018 and the upcoming ICLR 2019.
 
 - [Reading list](files/reading-list.md)
 
-## 4 Assignments and Grading Policy
+## 4. Assignments and Grading Policy
 
 ### 4.1 Assignments
 

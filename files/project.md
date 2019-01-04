@@ -6,14 +6,15 @@ In the final project, we would like to study the reproducibility of the deep lea
 
 Releasing research source code is one big step towards the direction of reproducibility. In this project, we are going to use some publicly available codes and try to reproduce the results in the related publications. 
 
-## Requirements
+## 1. Requirements
 
 A selected project must meet the following requirements:
 
 - it is a work accepted to a top NLP or machine learning conference (e.g., ACL, EMNLP, NAACL, ICML, NeurIPS/NIPS, and ICLR) in the past three years;
-- it has released the source code publicly available on GitHub or Bitbucket;
-- the release code has at least a brief introduction about how to use it.
+- it has released the source **code** publicly available on GitHub or Bitbucket;
+- the release code has at least a brief **instruction** about how to use it;
+- make sure you can download the data and find the specific **data split** either from the paper or the instruction.
 
-## Proposal Presentation
+## 2. Proposal Presentation
 
-Detail will come soon
+**Coming soon**
