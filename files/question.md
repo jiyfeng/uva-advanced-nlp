@@ -5,7 +5,9 @@
 1. Explain *distributional hypothesis* and its connection to word2vec
 2. Given a training corpus with 10K vocab, what are the perplexity lower and upper bounds of a language model trainined on this corpus?
 3. In a POS tagging task, if the sentence length is $N$ and the number of candidate tags is $K$, then what is the computational complexity of the Viterbi decoding algorithm?
-4. Discribe the shift-reduce parsing procedure that produces the following constituency parse of the sentence *I like coffee* <img src="parse.png" alt="parse" width="150"/>
+4. Discribe the shift-reduce parsing procedure that produces the following [dependency parse](https://web.stanford.edu/~jurafsky/slp3/13.pdf).
+
+<img src="parse.png" alt="parse" width="240" align="middle"/>
 
 ## 2. Statistical Machine Learning
 
