@@ -21,7 +21,7 @@ The objectives of this course is to provide opportunities to
 
 This is an advanced course on NLP, which means it assumes that you already have solid background on both NLP and machine learning. 
 
-Please use this [question form](files/question.md) for the prerequisites evaluation. If you are confident to answer 80% of the questions, then you are ready for this course.
+Please use this [question form](files/question.md) for the prerequisites evaluation. If you are confident to answer 80% of the questions without referring any textbook or paper, then you are ready for this course.
 
 ## 2 Schedule
 
@@ -38,8 +38,8 @@ For paper presentation, please select from the following reading list
 ### 4.1 Assignments
 
 - Reading assignments (40%): there are ten assignments, one for each week when we have paper presentations. You can choose one of the three papers to write a one-page summary.
-	- Please use the [summary template]().
-	- Here is a [guideline of writing a good paper summary](http://web2.uconn.edu/ahking/How_to_Summarize_a_Research_Article.pdf).
+	- Please use this [template](template/reading-assignment-template.tex) to finish the reading assignments.
+	- For further information, here is a [guideline of writing a good paper summary](http://web2.uconn.edu/ahking/How_to_Summarize_a_Research_Article.pdf).
 - Paper presentation/discussion (40%)
 	- Paper presentation (30%)
 	- In-class discussion (10%)
@@ -50,11 +50,11 @@ For paper presentation, please select from the following reading list
 
 ### 4.2 Grading Policy
 
-Overall policy
+General policy
 
 - No late submission
 - No extra credit in this course
 - For reading assignments, please write in your own words.
-- participation is critical in this course. Students who don't shown up more than 3 times will fail this course
+- Participation is critical for this course. Students who don't shown up more than 2 times will **fail** this course
 
 [Here](files/grade.md) is the detail grading policy.
