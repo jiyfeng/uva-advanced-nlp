@@ -55,8 +55,7 @@ For presentation, please select papers from the following list. Most of the pape
 General policy
 
 - Participation is critical for this course. Students who don't shown up more than 2 times will **fail** this course.
-- Submission is only accepted via Collab and no late submission is allowed. (To accommodate any potential internet issue, Collab will accept submission until Friday 12:30AM)
+- Submission is only accepted via Collab and **no** late submission is allowed.
 - For reading assignments, please write in your own words. Using other people’s materials (e.g., written text, code, or figures) without attribution is plagiarism and is never acceptable.
-- No extra credit in this course.
 
 [Here](files/grade.md) is the detail grading policy.
