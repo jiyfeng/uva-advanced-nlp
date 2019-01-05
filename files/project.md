@@ -6,6 +6,11 @@ In the final project, we would like to study the reproducibility of the deep lea
 
 Releasing research source code is one big step towards the direction of reproducibility. In this project, we are going to use some publicly available codes and try to reproduce the results in the related publications. 
 
+The **goal** of this final project is to investigate 
+
+- how easy or difficult it can be to reproduce the results with the released code?
+- furthermore, how robust or brittle a model can be with respect to some factors like initialization, optimization methods, minibatch sizes etc.
+
 ## 1. Requirements
 
 A selected project must meet the following requirements:
