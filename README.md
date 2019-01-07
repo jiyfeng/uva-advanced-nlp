@@ -46,8 +46,10 @@ For presentation, please select papers from the following list. Most of the pape
 
 ### 4.1 Assignments
 
-- Reading assignments (40%): there are ten assignments, one for each week when we have paper presentations. For each week, students can choose one of the three papers presented in that week to write a short summary. The submission due of each assignment is Thursday of the same week, 11:59PM. 
-	- Please use this [template](template/reading-assignment-template.tex) to finish the reading assignments.
+and the breakdowns of the 100 points of this course:
+
+- Reading assignments (40%): there are ten assignments, one for each week when we have paper presentations. For each week, students can choose one of the three papers presented in that week to write a short summary. The submission due of each assignment is **Thursday** of the same week, 11:59PM. 
+	- Please use this [template](files/reading-assignment-template.tex) to finish the reading assignments.
 	- Please submit your assignment via Collab in pdf format.
 	- For further information, here is a [guideline of writing a good paper summary](http://web2.uconn.edu/ahking/How_to_Summarize_a_Research_Article.pdf).
 - Paper presentation/discussion (40%)
@@ -60,7 +62,7 @@ For presentation, please select papers from the following list. Most of the pape
 
 ### 4.2 Grading Policy
 
-General policy
+General policy:
 
 - Participation is critical for this course. Students who don't shown up more than 2 times will **fail** this course.
 - Submission is only accepted via Collab and **no** late submission is allowed.
