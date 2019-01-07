@@ -3,7 +3,15 @@
 - Instructor: Yangfeng Ji
 - Location: Rice 011
 - Time: Friday 2:00PM - 4:30PM
-- Office Hour:
+- Office Hour: Monday 2:00PM - 3:00PM
+- TA: N/A
+
+**Highlights**
+
+- [Course schedule](files/schedule.md)
+- [Presentation schedule](https://docs.google.com/spreadsheets/d/1IJZFfohVO4Rvt9XhhCjVgA5IXvHEcSki4sdy2AobiqQ/edit#gid=0)
+- [Reading list](files/reading-list.md)
+- [Reading assignment template](template/reading-assignment-template.tex)
 
 ## 1. Course Description
 
@@ -15,7 +23,7 @@ The objectives of this course is to provide opportunities to
 
 1. understand the recent progress of natural language processing and some related machine learning methods
 2. study the reproducibility of deep learning for NLP
-3. practice students' writing and presentation skills
+3. practice writing and presentation skills
 
 ### 1.2 Prerequisites
 
