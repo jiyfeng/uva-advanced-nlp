@@ -12,7 +12,13 @@ The summaries will be graded on the following [four-point scale](https://courses
 
 ## 2. Grading Paper Presentations
 
-**Coming soon!**
+In a paper presentation, please include the following components
+
+- Problem definition (20%): What is the research problem studied in this paper? Why this problem is important to the NLP community?
+- Related work (10%): A brief explanation of previous works and their limitations.
+- Proposed method (30%): A detail description of proposed method and its novelty. (*If necessary, also provide some background knowledge, so the audience can fully understand the technical content.*)
+- Evaluation (30%): (1) A brief description of evaluation setup, including datasets, baselines and competitive systems, evaluation measurements etc.; (2) Experimental results and key observations from experiments. (*If necessary, also provide some background knowledge, so the audience can fully understand the technical content.*)
+- Takeaways (10%): important things to be remembered from this paper
 
 ## 3. Mapping Betweeen Points and Letter Grade
 
