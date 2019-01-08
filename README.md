@@ -5,6 +5,7 @@
 - Time: Friday 2:00PM - 4:30PM
 - Office Hour: Monday 2:00PM - 3:00PM
 - TA: N/A
+- Discussion forum: [Piazza](https://piazza.com/virginia/spring2019/cs8501001/home)
 
 **Highlights**
 
@@ -69,3 +70,13 @@ General policy:
 - For reading assignments, please write in your own words. Using other people’s materials (e.g., written text, code, or figures) without attribution is plagiarism and is never acceptable.
 
 [Here](files/grade.md) is the detail grading policy.
+
+# 5. Honor code
+
+I trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia, as well as the policies specific to this course.
+
+All suspected violations will be forwarded to the Honor Committee, and you may, at my discretion, receive an immediate zero on that assignment regardless of any action taken by the Honor Committee. 
+
+Please let me know if you have any questions regarding the course honor policy. If you believe you may have committed an Honor Offense, you may wish to file a Conscientious Retraction by calling the Honor Offices at (434) 924-7602. For your retraction to be considered valid, it must, among other things, be filed with the Honor Committee before you are aware that the act in question has come under suspicion by anyone. More information can be found at [here](http://honor.virginia.edu).
+
+*Adapted from [Honor Syllabus Example Statement](https://honor.virginia.edu/statement) on the UVa Honor Committee website*
