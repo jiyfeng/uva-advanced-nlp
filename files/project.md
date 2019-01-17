@@ -11,7 +11,9 @@ The **goal** of this final project is to investigate
 - how easy or difficult it can be to reproduce the results with the released code?
 - furthermore, how robust or brittle a model can be with respect to some factors like initialization, optimization methods, minibatch sizes etc.
 
-## 1. Requirements
+**Be honest** about what you will find in the project!
+
+## 1. Requirements of Choosing a Project
 
 A selected project must meet the following requirements:
 

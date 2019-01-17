@@ -18,6 +18,7 @@ header-includes:
 - [Presentation schedule](https://docs.google.com/spreadsheets/d/1IJZFfohVO4Rvt9XhhCjVgA5IXvHEcSki4sdy2AobiqQ/edit#gid=0)
 - [Reading list](files/reading-list.md)
 - [Reading assignment template](template/reading-assignment-template.tex)
+- [Final project](files/project.md)
 
 ## 1. Course Description
 
