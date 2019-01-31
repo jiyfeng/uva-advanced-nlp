@@ -24,4 +24,9 @@ A selected project must meet the following requirements:
 
 ## 2. Proposal Presentation
 
-**Coming soon**
+Proposal presentation will happen on Feb 2. Each student will have 15 minutes = 10 minutes for presentation and 5 minutes for QA. 
+
+A presentation should include two parts
+
+- the first part briefly explain the basic idea of a selected project;
+- the second part should explain why the selected project is interesting with respect to the reproducibility issue and how the student plans to conduct the work.
