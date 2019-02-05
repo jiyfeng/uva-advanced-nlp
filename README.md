@@ -19,6 +19,7 @@ header-includes:
 - [Reading list](files/reading-list.md)
 - [Reading assignment template](template/reading-assignment-template.tex)
 - [Final project](files/project.md)
+- [Final project signup](https://docs.google.com/spreadsheets/d/1IJZFfohVO4Rvt9XhhCjVgA5IXvHEcSki4sdy2AobiqQ/edit#gid=1780605354)
 
 ## 1. Course Description
 
