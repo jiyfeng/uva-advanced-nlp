@@ -30,3 +30,13 @@ A presentation should include two parts
 
 - the first part briefly explain the basic idea of a selected project;
 - the second part should explain why the selected project is interesting with respect to the reproducibility issue and how the student plans to conduct the work.
+
+## 3. Midterm Presentation
+
+The midterm presentation will be on Feb 8. Similar to the proposal presentation, each student will have about 10 minutes for presentation and 5 minutes for QA.
+
+Each presentation should include the following two parts
+
+- a brief review of the proposed project (about 2 minutes)
+- a brief review of the proposed plan to reproduce the results (about 3 minutes)
+- the progress that has been made so far (about 5 minutes)
